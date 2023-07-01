@@ -6,6 +6,10 @@ body {
   font-family: sans-serif;
   padding: 20px;
 }
+h1 {
+  text-align: center;
+  color: #e03131;
+}
 
 .flashcards {
   display: grid;
